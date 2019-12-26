@@ -2,9 +2,13 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+input{
+  width:100vh;
+}
+
+.mt{
+  margin-top: 2em !important;
+  padding: auto auto;
 }
 
 @media (prefers-reduced-motion: no-preference) {
